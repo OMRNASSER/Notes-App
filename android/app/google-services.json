@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "775001795217",
+    "project_id": "fbnote-924f8",
+    "storage_bucket": "fbnote-924f8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:775001795217:android:0a02fda592318b2058ad30",
+        "android_client_info": {
+          "package_name": "com.example.notes_app_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "775001795217-m4jplf5ik40gjnm00m362qfdgkqltipu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDV-qwl1MEkFxwnMMOLIflfXcCfTS4iUKs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "775001795217-m4jplf5ik40gjnm00m362qfdgkqltipu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
